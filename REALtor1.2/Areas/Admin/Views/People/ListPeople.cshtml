@@ -1,0 +1,12 @@
+﻿@{
+    foreach (var person in Model.getAllPeople)
+    {
+        <div class="contactsByAdmin">
+            <h3> ФИО:@person.Fio</h3>
+            <p> Номер телефона:@person.NumberOfPhone </p>
+            <p> email:@person.Email </p>
+            <p> Статус:@person.Status </p>
+            <p> Описание:@person.Requirements</p>
+        </div>
+    }
+}

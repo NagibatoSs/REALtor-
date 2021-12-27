@@ -1,0 +1,33 @@
+﻿@model House
+@{
+    
+    @*<div class="popup-bg">
+        <div class="popup">
+            <button class="close-popup">X</button>
+            <h1 id="paramsHeading">Параметры</h1>
+            <form action="/Houses/Parametrs" method="post">
+                <p class="paramsText">Площадь недвижимости:</p>
+                <p class="paramsText">от<input asp-for="@Model.Square" type="number" required autofocus>кв.м.</p>
+                <p class="paramsText">Количество комнат:</p>
+                <input asp-for="@Model.CountOfRooms" type="number" required>
+                <p class="paramsText">Цена:</p>
+                <p class="paramsText">от<input asp-for="@Model.Price" type="number" step="1000" required>рублей</p>
+                <p class="paramsText">Район:</p>
+                <p class="paramsText">Индустриальный<input asp-for="@Model.Area" value="Индустриальный" type="radio">Ленинский<input asp-for="@Model.Area" value="Ленинский" type="radio">Октябрьский<input asp-for="@Model.Area" value="Октябрьский" type="radio"></p>
+                <p class="paramsText">Устиновский<input asp-for="@Model.Area" value="Устиновский" type="radio">Первомайский<input asp-for="@Model.Area" value="Первомайский" type="radio"></p>
+                <p class="paramsText">Вид недвижимости:</p>
+                <p class="paramsText">Гараж<input asp-for="@Model.StatusOfHome" value="Гараж" type="radio">Новостройка<input asp-for="@Model.StatusOfHome" value="Новостройка" type="radio">Старый ветхий дом<input asp-for="@Model.StatusOfHome" value="Старый ветхий дом" type="radio"></p>
+                <p class="paramsText">Частный дом<input asp-for="@Model.StatusOfHome" value="Частный дом" name="property" type="radio">Старый многоэтажный дом<input asp-for="@Model.StatusOfHome" value="Старый многоэтажный дом" type="radio"></p>
+                <p class="paramsText">Условия жизни:</p>
+                <p class="paramsText">Холодная вода<input asp-for="@Model.coldWater" value="true" type="checkbox">Горячая<input asp-for="@Model.hotWater" value="true" type="checkbox">Электричество<input asp-for="@Model.electricity" value="true" type="checkbox"></p>
+                <p class="paramsText">Газ<input asp-for="@Model.gas" value="true" type="checkbox"></p>
+                <input type="hidden" name="houseFiltr" value="houseFiltr" />
+                <input type="submit" value="ГОТОВО">
+            </form>
+        </div>
+    </div>
+    <script src="/js/script.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jsScript.js"></script>*@
+
+}

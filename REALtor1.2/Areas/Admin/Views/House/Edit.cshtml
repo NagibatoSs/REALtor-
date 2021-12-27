@@ -1,0 +1,67 @@
+﻿@model House
+@{
+    string strTitle = "Редактировать запись";
+    ViewBag.Title = strTitle;
+}
+
+
+<div>
+    <h2>@strTitle</h2>
+    <div>
+        <form asp-area="Admin" asp-controller="House" asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="id" />
+            <input type="hidden" asp-for="Available" value="true" />
+
+            <div asp-validation-summary="All"></div>
+            <div class="box">
+                <label asp-for="Name">Заголовок:</label>
+                <input asp-for="Name" size="60" />
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="box">
+                <label asp-for="CountOfRooms">Количество комнат</label>
+                <input asp-for="CountOfRooms" size="20" />
+                <span asp-validation-for="CountOfRooms"></span>
+            </div>
+            <div class="box">
+                <label asp-for="Price">Цена:</label>
+                <input asp-for="Price" size="70" />
+                <span asp-validation-for="Price"></span>
+            </div>
+            <div class="box">
+                <label asp-for="coldWater">Холодная вода</label>
+                <input asp-for="coldWater" value="true" type="checkbox" />
+                <label asp-for="hotWater">Горячая вода</label>
+                <input asp-for="hotWater" value="true" type="checkbox" />
+                <label asp-for="electricity">Электричество</label>
+                <input asp-for="electricity" value="true" type="checkbox" />
+                <label asp-for="gas">Газ</label>
+                <input asp-for="gas" value="true" type="checkbox" />
+            </div>
+
+            <div class="box">
+                <label asp-for="Img">Фото дома:</label>
+                <input asp-for="Img" size="60" />
+                <span asp-validation-for="Img"></span>
+            </div>
+
+            <div class="box">
+                <label asp-for="Square">Площадь:</label>
+                <input asp-for="Square" size="60" />
+                <span asp-validation-for="Square"></span>
+            </div>
+            <div class="box">
+                <label asp-for="Area">Район:</label>
+                <input asp-for="Area" size="60" />
+                <span asp-validation-for="Area"></span>
+            </div>
+            <div class="box">
+                <label asp-for="Despription">Описание:</label>
+                <input asp-for="Despription" size="100" />
+                <span asp-validation-for="Despription"></span>
+            </div>
+            <input type="submit" value="Сохранить" />
+        </form>
+    </div>
+</div>
+

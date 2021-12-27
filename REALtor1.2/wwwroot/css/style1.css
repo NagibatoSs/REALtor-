@@ -1,0 +1,345 @@
+﻿body {
+    background-color: #e5f7d2;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 30px;
+}
+
+.baseInf a {
+    text-decoration: none;
+    float: right;
+    margin-right: 20px;
+}
+
+    .baseInf a:hover {
+        cursor: pointer;
+    }
+
+.baseInf {
+    flex-grow: 1;
+}
+
+    .baseInf h2 {
+        margin-bottom: 0;
+        margin-top: 0;
+        font-size: 40px;
+        margin-left: 40px;
+    }
+
+.top-menu {
+    width: 100%;
+    height: 80px;
+    float: center;
+}
+
+    .top-menu ul li {
+        border: 1px solid black;
+        list-style: none;
+        float: left;
+        background-color: #a4e3a3;
+        text-align: center;
+    }
+
+        .top-menu ul li a {
+            display: block;
+            width: 355px;
+            text-decoration: none;
+            font-family: serif;
+            font-size: 27px;
+            color: black;
+            height: 55px;
+            padding-top: 20px;
+            cursor: pointer;
+        }
+
+            .top-menu ul li a:hover {
+                background: #93d192;
+            }
+                .exit form {
+                    display: block;
+                    width: 355px;
+                    text-decoration: none;
+                    font-family: serif;
+                    font-size: 27px;
+                    color: black;
+                    height: 55px;
+                    padding-top: 20px;
+                    cursor: pointer;
+                }
+
+.contactsText img {
+    float: right;
+    margin-right: 700px;
+    margin-top: 10px;
+    width: 400px;
+    height: 500px;
+    margin-bottom: 130px;
+}
+
+.contactsText h2 {
+    margin: 0px;
+    font-size: 40px;
+    padding-left: 40px;
+}
+
+.contactsText p {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+#form {
+    padding-left: 40px;
+}
+
+#paramsHeading {
+    margin: 0;
+}
+
+#placeHeading {
+    margin: 0px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.div-box {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 340px;
+    background-color: #e6faef;
+    width: 400px;
+    padding-left: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+    .div-box input [type="submit"] {
+        height: 30px;
+        font-size: 20px;
+        border: 1px solid #000000;
+        cursor: pointer;
+        margin-bottom: 10px;
+    }
+
+.mainPanel {
+    margin-left: 40px;
+}
+
+    .mainPanel a {
+        color: black;
+        font-size: 30px;
+    }
+
+.panel {
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #e6faef;
+    width: 900px;
+    padding-left: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+    .panel a {
+        color: black;
+    }
+
+.box {
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    width: 300px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.contactsByAdmin {
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #e6faef;
+    width: 600px;
+    padding-left: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    height: 400px;
+}
+
+.list {
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #e6faef;
+    width: 800px;
+    padding-left: 10px;
+    font-size: 25px;
+    padding-bottom: 10px;
+    height: 400px;
+}
+
+    .list img {
+        width: 350px;
+        height: 300px;
+        float: right;
+        margin-left: 50px;
+        margin-top: 40px;
+        ;
+    }
+
+.textByForm {
+    font-size: 20px;
+}
+
+.paramsText {
+    margin: 0;
+}
+
+.popup-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.popup {
+    position: absolute;
+    background: #ffffff;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-top: 30px;
+    border: 2px solid #000000;
+}
+
+.open-popup {
+    position: relative;
+    height: 35px;
+    width: 200px;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.popup form {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 0;
+    flex-grow: 1;
+    width: 600px;
+    height: 500px;
+}
+
+    .popup form input {
+        margin-bottom: 0;
+        margin-left: 3px;
+        margin-right: 8px;
+        height: 20px;
+        font-size: 15px;
+        border: 2px solid #000000;
+    }
+
+        .popup form input[type="submit"] {
+            height: 30px;
+            width: 200px;
+            background: #15cf3d;
+            color: black;
+            font-size: 20px;
+            left: 80px;
+            margin: 20px;
+            cursor: pointer;
+        }
+
+        .popup form input[type="checkbox"] {
+            transform: scale(1.5);
+            height: 20px;
+            margin: 0;
+            margin-left: 5px;
+            margin-right: 25px;
+        }
+
+.close-popup {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.no-scroll {
+    overflow-y: hidden;
+}
+
+.place-add {
+    padding-left: 40px;
+}
+
+    .place-add form {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: #e6faef;
+        width: 650px;
+        padding-left: 10px;
+        font-size: 25px;
+    }
+
+        .place-add form input {
+            margin-bottom: 0;
+            margin-left: 3px;
+            margin-right: 15px;
+            height: 20px;
+            font-size: 15px;
+            border: 2px solid #000000;
+        }
+
+            .place-add form input[type="submit"] {
+                height: 30px;
+                font-size: 20px;
+                border: 1px solid #000000;
+                cursor: pointer;
+                margin-bottom: 10px;
+            }
+
+    .place-add p {
+        margin-bottom: 4px;
+    }
+
+.data {
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: #e6faef;
+    width: 610px;
+    height: 600px;
+    padding-left: 8px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+    .data form input[type="submit"] {
+        height: 25px;
+        font-size: 18px;
+        border: 1px solid #000000;
+        cursor: pointer;
+    }
+
+.complete {
+    text-align: center;
+    margin-bottom: 400px;
+    font-size: 40px;
+}
+
+footer {
+    position: relative;
+    height: 20px;
+    margin-top: 6px;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}

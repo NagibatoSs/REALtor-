@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/css/style1.css" type="text/css" />
+</head>
+<body>
+    <header>
+        <!--Верхнее меню-->
+        <div class="top-menu">
+            <ul>
+                <li><a href="/Admin/House/ListHouses">Поиск</a></li>
+                <li><a href="/Admin/Home/Index">Панель администратора</a></li>
+                <li><a href="/Admin/People/ListPeople">Данные клиентов</a></li>
+                <li>
+                    <div class="exit">
+                        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post">
+                            <input type="submit" value="Выйти" />
+                        </form>
+                    </div>
+                </li>   
+            </ul>
+        </div>
+    </header>
+    <div class="baseInf">
+    <h2> REALtor </h2>
+    <div>
+        @RenderBody()
+    </div>
+    </div>
+    <footer>
+        © 2021, All rights reversed
+    </footer>
+</body>
+</html>

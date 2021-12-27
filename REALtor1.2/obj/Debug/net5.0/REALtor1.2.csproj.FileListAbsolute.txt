@@ -1,0 +1,812 @@
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMain.cshtml.g.cs
+C:\Users\zhura\source\repos\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMain.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гиты\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_LayoutMain.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с локальной бд\REALtor1\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\версии пи\с ацесс бд\REALtor1.2\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\dsfsds\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\Edit.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит последнедний\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\ListHouses.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csprojAssemblyReference.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\Edit.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\ListHouses.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Checkout.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Complete.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\Edit.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\Parametrs.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\People\ListPeople.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит с оформлением базовой админкой 26.12.01\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\MainView.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\MainView.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\People\ListPeople.cshtml.g.cs
+C:\Users\ккккк\OneDrive\Рабочий стол\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\Parametrs.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\appsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\dbsettings.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.exe
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.deps.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.runtimeconfig.dev.json
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.AssemblyReference.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfoInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.AssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.Manifest.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\staticwebassets\REALtor1.2.StaticWebAssets.xml
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\scopedcss\bundle\REALtor1.2.styles.css
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.input.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.TagHelpers.output.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorCoreGenerate.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\Edit.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\House\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\People\ListPeople.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\ListHouses.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\MainView.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Houses\Parametrs.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputHouse\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Checkout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\InputPerson\Complete.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cache
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.RazorTargetAssemblyInfo.cs
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.Views.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.csproj.CopyComplete
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\ref\REALtor1.2.dll
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.pdb
+C:\Users\zhura\OneDrive\Рабочий стол\гит ласт\REALtor1\REALtor1.2\obj\Debug\net5.0\REALtor1.2.genruntimeconfig.cache
